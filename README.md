@@ -1,5 +1,5 @@
 # csci_2600_hw0
-As per request of Professor, written code for the assignment are not included.
+As per request of Professor, written code for the assignment is not included.
 
 RandomHello.java prints a random message when run.  
 Fibonachi.java prints the nth number in the Fibonachi sequence and passes all tests in FibinachiTest.java  
